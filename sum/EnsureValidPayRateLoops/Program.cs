@@ -9,23 +9,24 @@ namespace EnsureValidPayRateLoops
     {
         static void Main(string[] args)
         {
-            int sum = 0;
-            int n;
+            double sum = 0;
+            double n;
             String input;
             while (true)
             {
 
-                Console.WriteLine("Enter any integer value");
+                Console.WriteLine("Enter any hourly pay rate");
                 input = Console.ReadLine();
-                n = Convert.ToInt32(input);
+                n = Convert.ToDouble(input);
 
                 sum = n + sum;
 
-                if (input == "5")
+                if (n < 5.65 || n > 49.99)
                 {
                     break;
                 }
-                Console.WriteLine(sum);
+
+                //Console.WriteLine(sum);
             }
         }
     }
