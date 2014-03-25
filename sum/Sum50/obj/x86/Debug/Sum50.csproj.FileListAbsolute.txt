@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\Sum50\bin\Debug\Sum50.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\Sum50\bin\Debug\Sum50.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\Sum50\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\Sum50\obj\x86\Debug\Sum50.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\Sum50\obj\x86\Debug\Sum50.pdb
