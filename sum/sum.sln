@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVowel", "GetVowel\GetVow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidPayRateLoops", "EnsureValidPayRateLoops\EnsureValidPayRateLoops.csproj", "{777D9180-D7A8-4346-862E-3A735E699EF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumbers", "EvenNumbers\EvenNumbers.csproj", "{39BCC529-39BA-4764-A910-1A4ECC97927F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +27,10 @@ Global
 		{777D9180-D7A8-4346-862E-3A735E699EF4}.Debug|x86.Build.0 = Debug|x86
 		{777D9180-D7A8-4346-862E-3A735E699EF4}.Release|x86.ActiveCfg = Release|x86
 		{777D9180-D7A8-4346-862E-3A735E699EF4}.Release|x86.Build.0 = Release|x86
+		{39BCC529-39BA-4764-A910-1A4ECC97927F}.Debug|x86.ActiveCfg = Debug|x86
+		{39BCC529-39BA-4764-A910-1A4ECC97927F}.Debug|x86.Build.0 = Debug|x86
+		{39BCC529-39BA-4764-A910-1A4ECC97927F}.Release|x86.ActiveCfg = Release|x86
+		{39BCC529-39BA-4764-A910-1A4ECC97927F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

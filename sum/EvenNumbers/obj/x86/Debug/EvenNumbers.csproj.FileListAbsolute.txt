@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EvenNumbers\bin\Debug\EvenNumbers.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EvenNumbers\bin\Debug\EvenNumbers.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EvenNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EvenNumbers\obj\x86\Debug\EvenNumbers.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EvenNumbers\obj\x86\Debug\EvenNumbers.pdb
