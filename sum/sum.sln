@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableOfSquares", "TableOfSq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum50", "Sum50\Sum50.csproj", "{04631966-8B01-41DC-A1F2-C20FCF9D0876}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect", "Perfect\Perfect.csproj", "{D5D5DB54-0F8F-40CF-BD1A-44BE0B0E9AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,6 +45,10 @@ Global
 		{04631966-8B01-41DC-A1F2-C20FCF9D0876}.Debug|x86.Build.0 = Debug|x86
 		{04631966-8B01-41DC-A1F2-C20FCF9D0876}.Release|x86.ActiveCfg = Release|x86
 		{04631966-8B01-41DC-A1F2-C20FCF9D0876}.Release|x86.Build.0 = Release|x86
+		{D5D5DB54-0F8F-40CF-BD1A-44BE0B0E9AAF}.Debug|x86.ActiveCfg = Debug|x86
+		{D5D5DB54-0F8F-40CF-BD1A-44BE0B0E9AAF}.Debug|x86.Build.0 = Debug|x86
+		{D5D5DB54-0F8F-40CF-BD1A-44BE0B0E9AAF}.Release|x86.ActiveCfg = Release|x86
+		{D5D5DB54-0F8F-40CF-BD1A-44BE0B0E9AAF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
