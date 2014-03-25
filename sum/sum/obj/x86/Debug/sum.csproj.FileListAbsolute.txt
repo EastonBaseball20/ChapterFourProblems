@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\sum\bin\Debug\sum.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\sum\bin\Debug\sum.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\sum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\sum\obj\x86\Debug\sum.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\sum\obj\x86\Debug\sum.pdb
