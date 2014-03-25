@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidPayRateLoops", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumbers", "EvenNumbers\EvenNumbers.csproj", "{39BCC529-39BA-4764-A910-1A4ECC97927F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableOfSquares", "TableOfSquares\TableOfSquares.csproj", "{21E732BD-664C-4460-B4A9-A86D94DEA026}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{39BCC529-39BA-4764-A910-1A4ECC97927F}.Debug|x86.Build.0 = Debug|x86
 		{39BCC529-39BA-4764-A910-1A4ECC97927F}.Release|x86.ActiveCfg = Release|x86
 		{39BCC529-39BA-4764-A910-1A4ECC97927F}.Release|x86.Build.0 = Release|x86
+		{21E732BD-664C-4460-B4A9-A86D94DEA026}.Debug|x86.ActiveCfg = Debug|x86
+		{21E732BD-664C-4460-B4A9-A86D94DEA026}.Debug|x86.Build.0 = Debug|x86
+		{21E732BD-664C-4460-B4A9-A86D94DEA026}.Release|x86.ActiveCfg = Release|x86
+		{21E732BD-664C-4460-B4A9-A86D94DEA026}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\TableOfSquares\bin\Debug\TableOfSquares.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\TableOfSquares\bin\Debug\TableOfSquares.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\TableOfSquares\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\TableOfSquares\obj\x86\Debug\TableOfSquares.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\TableOfSquares\obj\x86\Debug\TableOfSquares.pdb
