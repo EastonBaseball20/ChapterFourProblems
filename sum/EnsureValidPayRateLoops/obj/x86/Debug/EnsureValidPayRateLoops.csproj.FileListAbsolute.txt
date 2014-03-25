@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EnsureValidPayRateLoops\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EnsureValidPayRateLoops\bin\Debug\EnsureValidPayRateLoops.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EnsureValidPayRateLoops\bin\Debug\EnsureValidPayRateLoops.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EnsureValidPayRateLoops\obj\x86\Debug\EnsureValidPayRateLoops.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\EnsureValidPayRateLoops\obj\x86\Debug\EnsureValidPayRateLoops.pdb

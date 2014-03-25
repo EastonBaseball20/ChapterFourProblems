@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\GetVowel\bin\Debug\GetVowel.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\GetVowel\bin\Debug\GetVowel.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\GetVowel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\GetVowel\obj\x86\Debug\GetVowel.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFourProblems\sum\GetVowel\obj\x86\Debug\GetVowel.pdb
