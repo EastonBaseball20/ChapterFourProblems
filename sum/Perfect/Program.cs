@@ -11,16 +11,24 @@ namespace Perfect
         {
             int sum = 0;
 
+
             for (int i = 1; i <= 1000; i++)
             {
-                for (int n = 1; n <= i; n++)
+                sum = 0;
+                for (int n = 1; n < i; n++)
                 {
-                    int ans = n * n;
-                    if (i == ans)
+                    if ( i % n == 0)
                     {
-                        Console.WriteLine(n);
+                        sum = n + sum;
                     }
+                    
+                  
                 }
+
+                if (sum == i)
+                    Console.WriteLine(sum);
+                    
+
             }
 
            
